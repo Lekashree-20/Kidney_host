@@ -3,4 +3,3 @@ Flask-CORS
 google-generativeai
 gunicorn
 pandas
-pickle
