@@ -3,3 +3,4 @@ Flask-CORS
 google-generativeai
 gunicorn
 pandas
+scikit-learn
